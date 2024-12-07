@@ -1,5 +1,5 @@
 
-# Genex-Shopper
+# **Genex-Shopper**
 
 Genex Online Ecommerce is a full-stack clothing store built using Node.js, Express, MongoDB, and EJS, 
 following MVC architecture. It integrates Razorpay for payments, Nodemailer for email notifications, and 
